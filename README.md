@@ -27,7 +27,7 @@ This project aims to improve road safety by providing a reliable and fast accide
 
 ## ⚙️ Technologies Used
 
-* Programming Language: C / C++
+* Programming Language: Embedded C
 * IoT Sensors
 * GPS Module for location tracking
 * GSM Module for sending alerts
